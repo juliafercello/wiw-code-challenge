@@ -3,9 +3,18 @@
 ## Steps to run 
 
 ```
+
 $ npm ci
 
 $ node src/index.js
+
+```
+
+## Steps to run tests
+
+```
+
+$ npm test
 
 ```
 
